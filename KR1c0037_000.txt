@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀詩私記
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:05:45.768763
+#+PROPERTY: ID KR1c0037
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1c0037_WYG_000-1a>¶
 欽定四庫全書　　　　經部三¶
 　讀詩私記　　　　　　詩類¶
@@ -31,6 +33,7 @@
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR1c0037_WYG_000-2b>¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1c0037_WYG_000-3a>¶
 讀詩私記原序¶
 芳自童時授詩于黄静軒先生講周南樂只君子福履¶
@@ -52,4 +55,3 @@
 <pb:KR1c0037_WYG_000-4a>¶
 者不少况他註乎顧予言非迂儒則妄人也姑藏之山¶
 中以備考訂云隆慶四年秋日濮陽後學李先芳謹識¶
-
